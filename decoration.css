@@ -1,0 +1,33 @@
+*{
+  margin: 0;
+}
+.table{
+  border: 1px solid black;
+  width: 50%;
+}
+.link{
+  list-style: none;
+  text-align: left;
+  padding: 0;
+}
+.menu{
+  text-align: left;
+}
+.line1{
+  border-style: solid;
+}
+.line2{
+  width: 50%;
+}
+.line2-1{
+  border-style: solid;
+  width: 10%;
+}
+.line2-2{
+  border-style: solid;
+  text-align: start;
+}
+.line3{
+  text-align: center;
+  width: 50%;
+}
