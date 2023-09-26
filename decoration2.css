@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.div {
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10%;
+    border: 1px solid black;
+}
+
+.div1 {
+    border: solid;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.div_center {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0;
+}
+
+.center_head1 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-right: 4px solid black;
+    flex-basis: 19.4%;
+}
+
+.center_head2 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    flex-basis: 80%;
+    text-align: revert;
+}
+
+
+
